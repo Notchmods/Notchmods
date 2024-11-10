@@ -9,12 +9,14 @@
 - ⚡ Fun fact: Do you know that C is a borderline low level language.
 
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCQrrS4zCC4zXeQenoSi6uXA">Notchmods</a>
+  <a href="https://www.youtube.com/channel/UCQrrS4zCC4zXeQenoSi6uXA">
+    <img title="Notchmods" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+  </a>
 </p>
 
 ---
 
-## Languages that I can code in:
+## 🖥️ Languages that I can code in:
 
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://i.redd.it/free-c-logos-to-use-in-your-projects-tutorials-guides-blog-v0-iajmv3o3jmea1.png?width=512&format=png&auto=webp&s=ad648c20ffb3982490a408ccf7a913f7399f2af6" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
