@@ -17,10 +17,10 @@
 ## Languages that I can code in:
 
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://i.redd.it/free-c-logos-to-use-in-your-projects-tutorials-guides-blog-v0-iajmv3o3jmea1.png?width=512&format=png&auto=webp&s=ad648c20ffb3982490a408ccf7a913f7399f2af6" />
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />
+<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/736x/49/5e/b2/495eb202028e863116b523e83ba0f61a.jpg" />
 
 
 
