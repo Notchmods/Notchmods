@@ -1,8 +1,6 @@
 ## Profile of Collin Teo
 
-
-
-Here are some ideas to get you started:
+**Digital builder(Programmer| Mobile and Game Developer)**
 
 - 🔭 I’m currently working on a game studio called ACRU(Abstract Cultural Research Unit)
 - 🌱 I’m currently learning Computer Science in the University of Melbourne
@@ -10,3 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ACRUAUS@gmail.com
 - ⚡ Fun fact: Do you know that C is a borderline low level language.
 
+<p align="left"><a href="https://www.youtube.com/channel/UCQrrS4zCC4zXeQenoSi6uXA">Notchmods</a></p>
