@@ -6,7 +6,7 @@
 - 🌱 I’m currently studying Computer Science in the University of Melbourne
 - 💬 Thinking of things is the first step to execution.
 - 📫 How to reach me: ACRUAUS@gmail.com
-- ⚡ Fun fact: Do you know that C is a borderline low level language.
+- ⚡ Fun fact: There was a phase in my programming life where I've built the most whackiest project, my GitHub page has some of them.
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCQrrS4zCC4zXeQenoSi6uXA">
