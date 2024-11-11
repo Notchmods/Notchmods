@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCQrrS4zCC4zXeQenoSi6uXA">
-    <img title="Notchmods" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://custom-icon-badges.demolab.com/badge/slydragonn-black.svg?logo=devdotto"/>
+    <img title="Notchmods" src="https://custom-icon-badges.demolab.com/badge/@Notchmods-red.svg?logo=slyyoutube&logoColor=white"/>
   </a>
 </p>
 
